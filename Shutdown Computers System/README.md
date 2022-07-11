@@ -15,6 +15,7 @@ WebApplication is 1GB size, and has many files. Send me an email to "MatanBarhou
 I choosed to work with PS1 (powershell scripts) at the client side because I wanted to maintain the client side editable by others at my company who does not know c# and can't maintain this.
 <h1>How does it work?</h1>
 Database: SQL Server 2019 <Br>
+Client-Side: Powershell <br>
 Front-End: HTML, CSS, Javascript and C# <Br>
 Back-End: .NET Web API + C# <br>
 <h2>Here some demos:</h2>
