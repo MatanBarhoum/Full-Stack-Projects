@@ -1,6 +1,7 @@
 # Employees Management Web Portal (CRUD) FullStack Project
 
 <h2>Front End</h2>
+Angular 10
 
 <h2>Back-End</h2>
 For the Web API I decided to go with .Net (C#) as I am more familiar with .Net and C#. <br>
