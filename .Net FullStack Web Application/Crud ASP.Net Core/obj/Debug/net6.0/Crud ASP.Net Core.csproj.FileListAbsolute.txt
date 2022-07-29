@@ -1,0 +1,33 @@
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\bin\Debug\net6.0\appsettings.Development.json
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\bin\Debug\net6.0\appsettings.json
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\bin\Debug\net6.0\Crud ASP.Net Core.staticwebassets.runtime.json
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\bin\Debug\net6.0\Crud ASP.Net Core.exe
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\bin\Debug\net6.0\Crud ASP.Net Core.deps.json
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\bin\Debug\net6.0\Crud ASP.Net Core.runtimeconfig.json
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\bin\Debug\net6.0\Crud ASP.Net Core.dll
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\bin\Debug\net6.0\Crud ASP.Net Core.pdb
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\obj\Debug\net6.0\Crud ASP.Net Core.csproj.AssemblyReference.cache
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\obj\Debug\net6.0\Crud ASP.Net Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\obj\Debug\net6.0\Crud ASP.Net Core.AssemblyInfoInputs.cache
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\obj\Debug\net6.0\Crud ASP.Net Core.AssemblyInfo.cs
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\obj\Debug\net6.0\Crud ASP.Net Core.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\obj\Debug\net6.0\Crud ASP.Net Core.MvcApplicationPartsAssemblyInfo.cache
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\obj\Debug\net6.0\Crud ASP.Net Core.RazorAssemblyInfo.cache
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\obj\Debug\net6.0\Crud ASP.Net Core.RazorAssemblyInfo.cs
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\obj\Debug\net6.0\staticwebassets.build.json
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\obj\Debug\net6.0\staticwebassets.development.json
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\obj\Debug\net6.0\scopedcss\bundle\Crud ASP.Net Core.styles.css
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\obj\Debug\net6.0\scopedcss\projectbundle\Crud ASP.Net Core.bundle.scp.css
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\obj\Debug\net6.0\Crud ASP.Net Core.csproj.CopyComplete
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\obj\Debug\net6.0\Crud ASP.Net Core.dll
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\obj\Debug\net6.0\refint\Crud ASP.Net Core.dll
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\obj\Debug\net6.0\Crud ASP.Net Core.pdb
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\obj\Debug\net6.0\Crud ASP.Net Core.genruntimeconfig.cache
+F:\Visual Studio\Crud ASP.Net Core\Crud ASP.Net Core\obj\Debug\net6.0\ref\Crud ASP.Net Core.dll

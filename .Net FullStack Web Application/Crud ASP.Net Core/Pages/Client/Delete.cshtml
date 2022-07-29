@@ -1,0 +1,25 @@
+﻿@page
+@using System.Data.SqlClient;
+@{
+    try
+    {
+        String id = Request.Query["id"];
+
+        String connectionString = "Data Source=localhost;Initial Catalog=CrudASPCoreTest;Integrated Security=True";
+        using (SqlConnection connection = new SqlConnection(connectionString))
+        {
+            connection.Open();
+            String cmd = "DELETE FROM clients WHERE id=@id";
+            using (SqlCommand command = new SqlCommand(cmd, connection))
+            {
+                command.Parameters.AddWithValue("@id", id);
+                command.ExecuteNonQuery();
+            }
+            connection.Close();
+        }
+    }
+    catch (Exception ex) { }
+
+            Response.Redirect("/Client");
+    }
+}
