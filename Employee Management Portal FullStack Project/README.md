@@ -1,7 +1,7 @@
 # Employees Management Web Portal (CRUD) FullStack Project
 
 <h2>Front End</h2>
-Angular 10 <br> After I fell in love with HTML, CSS and JS I decided to try diffrent things. Angular for Front-End was a mandatory. As this is my first step into the world of angular, I got to say that Angular is quite hard to understand, but the harder, the better.
+Angular 10
 
 <h2>Back-End</h2>
 For the Web API I decided to go with .Net (C#) as I am more familiar with .Net and C#. <br>
