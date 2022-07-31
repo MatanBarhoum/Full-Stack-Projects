@@ -1,0 +1,19 @@
+﻿@page
+@using System.Data.SqlClient;
+@{
+    var id = Request.Query["id"].ToString();
+    var connectionString = "Data Source=localhost;Initial Catalog=reportsystem;Integrated Security=True";;
+    using (var connection = new SqlConnection(connectionString))
+    {
+        var command = "DELETE FROM reports WHERE id=@id";
+        using (var cmd = new SqlCommand(command, connection))
+        {
+            cmd.Parameters.AddWithValue("@id", id);
+            connection.Open();
+            cmd.ExecuteNonQuery();
+            connection.Close();
+        }
+    }
+
+    Response.Redirect("/Reports");
+}

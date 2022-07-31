@@ -1,0 +1,63 @@
+﻿@page
+@model FullStackReportSystem.Pages.Reports.IndexModel
+@{
+    
+    <script>
+    function CheckResponse() {
+        if (@Model.SuccessMessage.Length > 0) {
+            alert("123");
+        }
+    }
+    </script>
+}
+
+
+<br />
+<h2>Reports</h2>
+
+<a class="btn btn-primary btn-sm" href="/Reports/New">New Report</a>
+<br />
+<br />
+<table class="table table-dark table-hover">
+      <thead>
+        <tr>
+            <th>ID</th>
+            <th>Category</th>
+            <th>Full Name</th>
+            <th>Fee</th>
+            <th>Status</th>
+            <th>Created at</th>
+            <th>Image</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+        <tbody>
+        @foreach(var report in Model.reportsList)
+        {       
+            <tr>
+                <td>@report.ReportID</td>
+                <td>@report.ReportCategory</td>
+                <td>@report.FullName</td>
+                <td>$@report.Fee</td>
+                @if (report.payment_status.ToLower() == "paid up")
+                {
+                   <td id="payment_status_ok"><span class="badge bg-success">Paid Up</span></td>
+                } else {
+                    <td id="payment_status_bad"><span class="badge bg-danger">Not Paid</span></td>
+                }
+                <td>@report.created_at</td>
+                <td><img src="/Uploads/@report.ImagePath"></td>
+                <td>
+                    <a class="btn btn-primary btn-sm" href="/Reports/Edit?id=@report.ReportID">Edit</a>
+                    <a class="btn btn-danger btn-sm" href="/Reports/Delete?id=@report.ReportID">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<br />
+<br />
+
+
+

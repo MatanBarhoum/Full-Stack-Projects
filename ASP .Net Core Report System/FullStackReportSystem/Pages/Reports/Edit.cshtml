@@ -1,0 +1,101 @@
+﻿@page
+@model FullStackReportSystem.Pages.Reports.EditModel
+@{
+    <script>
+        if (@Model.SuccessMessage.Length > 0) {
+            const lblCancelbtn = document.getElementById("cancelbtn");
+            lblCancelbtn.innerHTML = "Return";
+        }
+    </script>
+}
+
+
+<br />
+<h2>Edit Report</h2>
+
+@if (Model.ErrorMessage.Length > 0)
+{
+    <div class="alert alert-danger" role="alert">
+	  @Model.ErrorMessage
+	</div>
+}
+
+<form method="post" enctype="multipart/form-data">
+    <div class="row mb-3">
+    <label for="Category" class="col-sm-3 col-form-label">Category</label>
+    <div class="col-sm-6">
+      <select class="form-control" name="Category" >
+                @if (Model.reportInfo.ReportCategory.ToLower() == "speeding")
+                {
+                    <option>Speeding</option>
+                    <option>Red Light</option>
+                } else
+                {
+                    <option>Red Light</option>
+                    <option>Speeding</option>
+                }
+            </select>
+    </div>
+  </div>
+
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Full Name</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="Name" value="@Model.reportInfo.FullName" />
+        </div>
+    </div>
+
+        <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Fee</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="Fee" value="@Model.reportInfo.Fee" />
+        </div>
+    </div>
+
+      <div class="row mb-3">
+    <label class="col-sm-3 col-form-label">Payment Status</label>
+    <div class="col-sm-6">
+      <select class="form-control" name="payment_status">
+                @if (Model.reportInfo.payment_status.ToLower() == "not paid")
+                {
+                    <option>Not Paid</option>
+                    <option>Paid up</option>
+                } else
+                {
+                    <option>Paid up</option>
+                    <option>Not Paid</option>
+                }
+            </select>
+    </div>
+  </div>
+
+          <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Image</label>
+        <div class="col-sm-6">
+            <img src="/Uploads/@Model.reportInfo.ImagePath" />
+            <br />
+            <input type="file" name="postedFiles" multiple />
+        </div>
+    </div>
+
+ 
+
+       @if (Model.SuccessMessage.Length > 0)
+        {
+         <div class="alert alert-success" role="alert">
+	      @Model.SuccessMessage
+    	</div>
+        }
+
+
+    <div class="row mb-3">
+        <div class="offset-sm-3 col-sm-3 d-grid">
+            <button type="submit" value="upload" class="btn btn-primary">Submit</button>
+        </div>
+        <div class="col-sm-3 d-grid">
+            <a class="btn btn-outline-primary" id="cancelbtn" href="/Reports" role="button">Cancel</a>
+        </div>
+    </div>
+
+    
+</form>
