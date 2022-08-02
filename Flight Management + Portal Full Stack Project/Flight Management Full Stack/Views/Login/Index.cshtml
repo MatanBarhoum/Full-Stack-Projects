@@ -1,0 +1,30 @@
+﻿@model Flight_Management_Full_Stack.Models.Login;
+@{
+}
+
+<form method="post">
+  <div class="p-1">
+    <label for="username" class="form-label">Email:</label>
+    <input type="text" class="form-control" id="username" asp-for="username" placeholder="Enter your username" name="username">
+  </div>
+  <div class="p-1">
+    <label for="pwd" class="form-label">Password:</label>
+    <input type="password" class="form-control" id="password" asp-for="password" placeholder="Enter password" name="password">
+  </div>
+  <div class="form-check m-2">
+    <label class="form-check-label">
+      <input class="form-check-input" type="checkbox" name="remember"> Remember me
+    </label>
+
+ <input type="submit" value="Submit" />
+                        </div>
+
+@{
+    if (TempData["msg"]!=null)
+    {
+        <script>
+            alert('@TempData["msg"]')
+        </script>
+    }
+}
+                </form>

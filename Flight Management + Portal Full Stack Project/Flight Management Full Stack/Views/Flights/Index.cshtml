@@ -1,0 +1,40 @@
+﻿@{
+    <script>
+        const DoSomething = () => {
+            alert("123");
+        }
+    </script>
+}
+
+<Br />
+<br />
+<br />
+<table class="table table-hover table-dark text-center center-block">
+  <thead>
+    <tr>
+      <th>From</th>
+      <th>Destination</th>
+      <th>Take Off</th>
+      <th>Landing</th>
+      <th>Available Seats</th>
+      <th>Price</th>
+      <th>Order</th>
+
+    </tr>
+  </thead>
+  <tbody>
+    @{
+        foreach (var Data in Model) {
+            <tr>
+                <td class="h2">@Data.flightFrom</td>
+                <td class="h2">@Data.flightDestination</td>
+                <td class="h2">@Data.takeOff</td>
+                <td class="h2">@Data.Landing</td>
+                <td class="h2" id="availableSeats">@Data.availableSeats</td>
+                <td class="h2 p-3 mb-2 bg-success text-white">@Data.price$</td>
+                <td><button type="button" data-name="@Data.flightFrom to @Data.flightDestination" data-price="@Data.price" class="add-to-cart btn btn-success">Order Now</button></td>
+            </tr>
+        }
+    }
+  </tbody>
+</table>

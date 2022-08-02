@@ -1,0 +1,36 @@
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\bin\Debug\net6.0\appsettings.Development.json
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\bin\Debug\net6.0\appsettings.json
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\bin\Debug\net6.0\Flight Management Full Stack.staticwebassets.runtime.json
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\bin\Debug\net6.0\Flight Management Full Stack.exe
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\bin\Debug\net6.0\Flight Management Full Stack.deps.json
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\bin\Debug\net6.0\Flight Management Full Stack.runtimeconfig.json
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\bin\Debug\net6.0\Flight Management Full Stack.dll
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\bin\Debug\net6.0\Flight Management Full Stack.pdb
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\bin\Debug\net6.0\Syncfusion.EJ2.dll
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\bin\Debug\net6.0\Syncfusion.Licensing.dll
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\obj\Debug\net6.0\Flight Management Full Stack.csproj.AssemblyReference.cache
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\obj\Debug\net6.0\Flight Management Full Stack.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\obj\Debug\net6.0\Flight Management Full Stack.AssemblyInfoInputs.cache
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\obj\Debug\net6.0\Flight Management Full Stack.AssemblyInfo.cs
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\obj\Debug\net6.0\Flight Management Full Stack.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\obj\Debug\net6.0\Flight Management Full Stack.MvcApplicationPartsAssemblyInfo.cache
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\obj\Debug\net6.0\Flight Management Full Stack.RazorAssemblyInfo.cache
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\obj\Debug\net6.0\Flight Management Full Stack.RazorAssemblyInfo.cs
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\obj\Debug\net6.0\staticwebassets.build.json
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\obj\Debug\net6.0\staticwebassets.development.json
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\obj\Debug\net6.0\scopedcss\bundle\Flight Management Full Stack.styles.css
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\obj\Debug\net6.0\scopedcss\projectbundle\Flight Management Full Stack.bundle.scp.css
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\obj\Debug\net6.0\Flight Management Full Stack.csproj.CopyComplete
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\obj\Debug\net6.0\Flight Management Full Stack.dll
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\obj\Debug\net6.0\refint\Flight Management Full Stack.dll
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\obj\Debug\net6.0\Flight Management Full Stack.pdb
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\obj\Debug\net6.0\Flight Management Full Stack.genruntimeconfig.cache
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\obj\Debug\net6.0\ref\Flight Management Full Stack.dll
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Visual Studio\Flight Management Full Stack\Flight Management Full Stack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
