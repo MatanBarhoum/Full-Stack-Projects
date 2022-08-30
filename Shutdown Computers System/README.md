@@ -17,7 +17,7 @@ I choosed to work with PS1 (powershell scripts) at the client side because I wan
 Database: SQL Server 2019 <Br>
 Client-Side: Powershell <br>
 Front-End: HTML, CSS, Javascript and C# <Br>
-Back-End: .NET Web API + C# <br>
+Back-End: ASP.NET, Web API + C# <br>
 <h2>Here some demos:</h2>
 
 <h2>API to Server-Side + SQL query showing Data was proccessed into the SQL.</h2>
