@@ -20,8 +20,6 @@ Front-End: HTML, CSS, Javascript and C# <Br>
 Back-End: ASP.NET, Web API + C# <br>
 <h2>Here some demos:</h2>
 
-<h2>API to Server-Side + SQL query showing Data was proccessed into the SQL.</h2>
-<img src="APIToSQLDemo.gif">
 <h2>Demo of the report app and how it's work.</h2>
 <img src="AppDemo.gif">
 <h2>The Web Application as well.</h2>
